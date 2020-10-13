@@ -20,8 +20,16 @@ Hal pertama yang harus kita lakukan adalah instalasi GIT pada komputer atau lapt
 untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut ini :
 
 1. kunjungi link website https://git-scm.com/ untuk instalasi GIT
-2. Jika sudah di beranda, kita klik pada tulisan ``Download 2.28.0 for Windows`` untuk lebih jelas lihat pada gambar kotak hijau dibawah ini
+2. Jika sudah di beranda, kita klik pada tulisan `Download 2.28.0 for Windows` untuk lebih jelas lihat pada gambar kotak hijau dibawah ini
 
       ![download_git](https://user-images.githubusercontent.com/72792261/95863238-26a81980-0d8e-11eb-9b2b-47cc54bf3f82.png)
 
-3. yaitu
+3. jika sudah maka installer git akan terdownload dan tunggu hingga selesai, langkah berikutnya buka installer git yang sudah terdownload dengan klik 2x atau klik kanan `Run as administrator`
+
+      ![download_git0](https://user-images.githubusercontent.com/72792261/95875725-8ad1da00-0d9c-11eb-9925-ae3ea5c2b3f6.png)
+
+4. 
+
+      ![download_git1](https://user-images.githubusercontent.com/72792261/95875111-dcc63000-0d9b-11eb-827a-ee22cc7d0d2d.png)
+
+5. 
