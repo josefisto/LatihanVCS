@@ -4,7 +4,8 @@
  Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
 
 **Daftar Isi**
-* [Instalasi GIT](#Instalasi-git)
+  * [Bagaimana cara menggunakan GIT](#Bagaimana-cara-menggunakan-GIT)
+     * [Instalasi GIT](#Instalasi-git)
 
 ## Bagaimana cara menggunakan GIT
 Untuk pertama kali atau baru mencoba kita bingung bagaimana caranya menggunakan git begitu juga saya demikian, disini saya akan memberitahu kepada kalian **Bagaimana cara menggunakan GIT** jadi simaklah pada langkah langkah dibawah ini.
