@@ -1,9 +1,7 @@
 # Apa itu GIT
 
-**GIT** adalah salah satu tool yang sering digunakan dalam proyek pengembangan software.
+**GIT** adalah alah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds.
 
-Git bahkan menjadi tool yang wajib dipahami oleh programmer, karena banyak digunakan di mana-mana.
+Pengontrol versi bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri.
 
-Pada kesempatan ini kita akan belajar Git dari dasar.
-
-Artikel ini hanya akan membahas pengenalan Git saja. Untuk mempelajari Git lebih lanjut, saya sudah menyediakan link di bagian akhir.
+Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
