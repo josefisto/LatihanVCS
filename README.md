@@ -21,3 +21,4 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
 1. kunjungi link website https://git-scm.com/ untuk instalasi GIT
 2. Jika sudah, kita klik pada tulisan **Download 2.28.0 for Windows** untuk lebih jelas lihat pada gambar kotak hijau dibawah ini 
+![Download 2.28.0 for Windows](https://ibb.co/92mWQXq)
