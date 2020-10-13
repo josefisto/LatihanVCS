@@ -1,5 +1,5 @@
 # GIT
-Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali dalam menggunakan *GIT*.
+Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
 
 **Daftar Isi**
   * [Apa itu GIT](#Apa-itu-GIT)
@@ -21,7 +21,6 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
 1. kunjungi link website https://git-scm.com/ untuk instalasi GIT
 2. Jika sudah, kita klik pada tulisan ``Download 2.28.0 for Windows`` untuk lebih jelas lihat pada gambar kotak hijau dibawah ini
-
 ![download_git](https://user-images.githubusercontent.com/72792261/95862230-c9f82f00-0d8c-11eb-8daa-00b4030ee8d3.png)
 
 3. yaitu
