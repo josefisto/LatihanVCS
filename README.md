@@ -28,8 +28,8 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![download_git0](https://user-images.githubusercontent.com/72792261/95875725-8ad1da00-0d9c-11eb-9925-ae3ea5c2b3f6.png)
 
-4. 
+4. asdasdsa
 
-    ![download_git1](https://user-images.githubusercontent.com/72792261/95875111-dcc63000-0d9b-11eb-827a-ee22cc7d0d2d.png)
+![download_git1](https://user-images.githubusercontent.com/72792261/95875111-dcc63000-0d9b-11eb-827a-ee22cc7d0d2d.png)
 
-5. 
+5. asdasd
