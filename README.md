@@ -30,6 +30,6 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
 4. asdasdsa
 
-![download_git1](https://user-images.githubusercontent.com/72792261/95875111-dcc63000-0d9b-11eb-827a-ee22cc7d0d2d.png)
+      ![download_git1](https://user-images.githubusercontent.com/72792261/95875111-dcc63000-0d9b-11eb-827a-ee22cc7d0d2d.png)
 
 5. asdasd
