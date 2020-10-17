@@ -4,8 +4,9 @@ Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna b
 **Daftar Isi**
   * [Apa itu GIT](#Apa-itu-GIT)
   * [Bagaimana cara menggunakan GIT](#Bagaimana-cara-menggunakan-GIT)
-     * [Instalasi GIT](#Instalasi-git)
-     * [Cara Menggunakan GIT](#Cara-Menggunakan-GIT)
+    * [Instalasi GIT](#Instalasi-git)
+    * [Cara Menggunakan GIT](#Cara-Menggunakan-GIT)
+    * [Menambahkan-Global-Config](#Menambahkan-Global-Config)
      
 ## Apa itu GIT
 
@@ -89,7 +90,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 ### Cara Menggunakan Git
 Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. Berikut ini merupakan langkah menggunakan Git :
 
-#### Menambahkan Global Config
+### Menambahkan Global Config
 
  Pertama kali untuk menggunakan GIT, kalian bisa mendaftarkan diri atau menggunakan akun GitHub, Gitlab, atau Bitbucket. Jika sudah mendaftarkan diri buka Command Prompt (CMD) pada komputer atau laptop kalian dan tuliskan perintah - perintah di bawah ini lalau kita eksekusikan atau jalankan.
 
