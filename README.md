@@ -164,7 +164,7 @@ directory).
    
    - File **README.md** berhasil dibuat.
    
-     ![README_md](https://user-images.githubusercontent.com/72792261/96333982-86a50580-1097-11eb-9b85-035d4c8c2f73.png)
+      ![README_md](https://user-images.githubusercontent.com/72792261/96333982-86a50580-1097-11eb-9b85-035d4c8c2f73.png)
    
    - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
      
@@ -172,7 +172,7 @@ directory).
      
    - File README.md berhasil ditambahkan.
    
-   ![git_add](https://user-images.githubusercontent.com/72792261/96333980-84db4200-1097-11eb-90ee-4b7b561a41ba.png)
+      ![git_add](https://user-images.githubusercontent.com/72792261/96333980-84db4200-1097-11eb-90ee-4b7b561a41ba.png)
    
 5. *Commit* (Menyimpan perubahan ke database)
 
