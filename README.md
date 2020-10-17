@@ -76,4 +76,4 @@ Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai d
 
       ![download_git13](https://user-images.githubusercontent.com/72792261/95879686-d1c1ce80-0da0-11eb-9e95-965d165e47cb.png)
 
-
+ses
