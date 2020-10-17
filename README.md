@@ -56,24 +56,24 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![download_git7](https://user-images.githubusercontent.com/72792261/95879668-ce2e4780-0da0-11eb-8787-0ef2ea60d572.png)
 
-11. asdas
+11. Disini saya memilih default. agar kita bisa git pull atau menyimpan langsung ke server atau kita bisa bikin folder dengan format .crt untuk metode penggabungan. Klik `Next` untuk melanjutkan instalasi.
 
       ![download_git8](https://user-images.githubusercontent.com/72792261/95879676-cf5f7480-0da0-11eb-93ba-703eb0bf0dff.png)
 
-12. asdad
+12. Pilih Enable **File System Caching** agar Git memiliki fungsi system caching. Kedua, Klik `Next` untuk melanjutkan instalasi.
 
       ![download_git9](https://user-images.githubusercontent.com/72792261/95879677-cff80b00-0da0-11eb-81ff-9846448ff18f.png)
 
-13. asdas
+13. Pilih Enable Git Credential Manager agar Git bisa dikombinasikan dengan aplikasi lain seperti Visual Studio, Android Studio, dan GitHub. Klik `Next` untuk melanjutkan instalasi.
 
       ![download_git10](https://user-images.githubusercontent.com/72792261/95879679-d090a180-0da0-11eb-824b-13af95d41f3e.png)
 
-14. asdsa
+14. Setelah menambahkan konfigurasi ekstra pada Git, Anda bisa memulai proses instalasi Git. Klik Install untuk melanjutkan proses.
 
       ![download_git11](https://user-images.githubusercontent.com/72792261/95879683-d1293800-0da0-11eb-9d2d-e4dbd6657530.png)
 
-15. asdas
+Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
 
       ![download_git13](https://user-images.githubusercontent.com/72792261/95879686-d1c1ce80-0da0-11eb-9e95-965d165e47cb.png)
 
-lalalalala
+
