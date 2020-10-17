@@ -82,6 +82,8 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
       
       Selanjutnya masukkan perintah berikut `git --version` untuk cek versi git dan cek apakah Git sudah terinstall di komputer Anda. jika sudah maka tampilan akan di bawah seperti ini
       
-      ![cmd](https://user-images.githubusercontent.com/72792261/96327332-e1703a00-1062-11eb-8c3c-ebe8db4215af.png)
+      ![cmd](https://user-images.githubusercontent.com/72792261/96327413-94d92e80-1063-11eb-9541-552cc07e0066.png)
+
+
 
       
