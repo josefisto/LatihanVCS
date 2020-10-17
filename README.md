@@ -32,7 +32,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![download_git1](https://user-images.githubusercontent.com/72792261/95875111-dcc63000-0d9b-11eb-827a-ee22cc7d0d2d.png)
 
-5. asdasd
+5. Kemudian pilih komponen tambahan untuk install Git. Fungsi komponen ini adalah untuk memperlancar penggunaan Git dan mendukung file dengan kapasitas besar. Sesuaikan komponen tambahan yang dipilih seperti pada gambar di bawah ini. Jika sudah klik Next untuk melanjutkan instalasi.
 
       ![download_git2](https://user-images.githubusercontent.com/72792261/95879636-ca022a00-0da0-11eb-9790-d6e9f764d277.png)
 
