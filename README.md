@@ -72,7 +72,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![download_git11](https://user-images.githubusercontent.com/72792261/95879683-d1293800-0da0-11eb-9d2d-e4dbd6657530.png)
 
-Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
+    Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
 
-   ![download_git13](https://user-images.githubusercontent.com/72792261/95879686-d1c1ce80-0da0-11eb-9e95-965d165e47cb.png)
+       ![download_git13](https://user-images.githubusercontent.com/72792261/95879686-d1c1ce80-0da0-11eb-9e95-965d165e47cb.png)
 
