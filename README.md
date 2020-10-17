@@ -102,3 +102,13 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
    berikut ini adalah gambar dari perintah - perintah yang sudah di jalankan.
    
       ![metode_](https://user-images.githubusercontent.com/72792261/96328006-d02a2c00-1068-11eb-8f0d-e5ac1dc4701c.png)
+
+2. Ketahui terlebih dahulu perintah - perintah dasar untuk memulai menggunakan git, berikut ini adalah perintah - perintah yang digunakan git.
+
+   `git init`, perintah untuk membuat repository local
+   `git add`, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.
+   `git commit`, perintah untuk menyimpan perubahan kedalam database git.
+   `git push -u origin master`, perintah untuk mengirim perubahan pada repository local menuju server repository.
+   `git clone [url]`, perintah untuk membuat working directory yang diambil dari repositry sever.
+   `git remote add origin [url]`, perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
+   `git pull`, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
