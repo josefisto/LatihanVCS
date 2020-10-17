@@ -217,7 +217,7 @@ directory).
    
       ![inikah](https://user-images.githubusercontent.com/72792261/96335318-1780de80-10a2-11eb-9bf9-3b74693bb326.png)
 
-   * Isi nama repositorynya, misal: labpy1.
+   * Isi nama repositorynya, misal: Prasejarah.
 
    * lalu klik tombol Create repository.
    
