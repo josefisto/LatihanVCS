@@ -91,7 +91,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![running](https://user-images.githubusercontent.com/72792261/96327324-d6b5a500-1062-11eb-87ef-23c522d59997.png)
       
-      Selanjutnya masukkan perintah berikut `git --version` untuk cek versi git dan cek apakah Git sudah terinstall di komputer Anda. jika sudah maka tampilan akan di bawah seperti ini
+    Selanjutnya masukkan perintah berikut `git --version` untuk cek versi git dan cek apakah Git sudah terinstall di komputer Anda. jika sudah maka tampilan akan di bawah seperti ini
       
       ![cmd](https://user-images.githubusercontent.com/72792261/96327413-94d92e80-1063-11eb-9541-552cc07e0066.png)
 
@@ -100,29 +100,28 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
  Cara Menggunakan Git
 Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. Berikut ini merupakan langkah menggunakan Git :
 
-### Menambahkan Global Config
+#### Menambahkan Global Config
 
  Pertama kali untuk menggunakan GIT, kalian bisa mendaftarkan diri atau menggunakan akun GitHub, Gitlab, atau Bitbucket. Jika sudah mendaftarkan diri buka Command Prompt (CMD) pada komputer atau laptop kalian dan tuliskan perintah - perintah di bawah ini lalau kita eksekusikan atau jalankan.
 
-   `git config --global user.name “nama_user”`
+   * `git config --global user.name “nama_user”`
+   
+      digunakan untuk menyertakan nama pengguna dari akun git, hasilnya di bawah ini
+   
+      ![un](https://user-images.githubusercontent.com/72792261/96339471-23c76480-10bf-11eb-9638-4a34240f8ba8.png)
+   
+   * `git config --global user.email “nama_user”`
+       
+      digunakan untuk menyertakan pengguna email dari akun git, hasilnya di bawah ini
       
-      ![user_name](https://user-images.githubusercontent.com/72792261/96339360-7ce2c880-10be-11eb-8d20-0f3f20b3a286.png)   
+      ![ue](https://user-images.githubusercontent.com/72792261/96339469-21fda100-10bf-11eb-9cf0-219a5b46839f.png)
    
-   digunakan untuk menyertakan nama pengguna dari akun git
-   
-   `git config --global user.email “nama_user”`
-      
-      ![user_email](https://user-images.githubusercontent.com/72792261/96339356-7b190500-10be-11eb-8fec-704e75bfdfcb.png)
-   
-   digunakan untuk menyertakan pengguna email dari akun git
-   
-   `git config --list`
-      
-      ![user_--list](https://user-images.githubusercontent.com/72792261/96339359-7c4a3200-10be-11eb-918a-a92a1adbd13e.png)
+   * `git config --list`
 
-   untuk mengetahui bahwa akun sudah terdaftar atau tidak
-   
+      untuk mengetahui bahwa akun sudah terdaftar atau tidak, hasilnya di bawah ini
 
+      ![ul](https://user-images.githubusercontent.com/72792261/96339470-232ece00-10bf-11eb-96db-bdcd738db7c1.png)
+      
 ### Perintah Dasar Git
 
  Ketahui terlebih dahulu perintah - perintah dasar untuk memulai menggunakan git, berikut ini adalah perintah - perintah yang digunakan git.
