@@ -14,7 +14,7 @@ Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna b
     * [Membuat repository server](#membuat-repository-server)
     * [Menambah Remote Repository](#menambah-remote-repository)
     * [Push (Mengirim perubahan ke server)](#push-(mengirim-perubahan-ke-server))
-    * [Melihat hasilnya pada server repository(#melihat-hasilnya-pada-server-repository)
+    * [Melihat hasilnya pada server repository](#melihat-hasilnya-pada-server-repository)
     * [Clone Repository](#clone-repository)
     
 ## Apa itu GIT
