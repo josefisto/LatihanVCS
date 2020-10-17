@@ -88,7 +88,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 ### Cara Menggunakan Git
 Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. Berikut ini merupakan langkah menggunakan Git.
 
-1. Pertama kali untuk menggunakan GIT, kalian bisa mendaftarkan diri atau menggunakan akun GitHub, Gitlab, atau Bitbucket. Jika sudah mendaftarkan diri buka Command Prompt (CMD) pada komputer atau laptop kalian dan tuliskan perintah - perintah di bawah ini lalau kita eksekusikan atau jalankan.
+ 1. Pertama kali untuk menggunakan GIT, kalian bisa mendaftarkan diri atau menggunakan akun GitHub, Gitlab, atau Bitbucket. Jika sudah mendaftarkan diri buka Command Prompt (CMD) pada komputer atau laptop kalian dan tuliskan perintah - perintah di bawah ini lalau kita eksekusikan atau jalankan.
 
    - `git config --global user.name “nama_user”`
    
@@ -106,7 +106,7 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
    
       ![metode_](https://user-images.githubusercontent.com/72792261/96328006-d02a2c00-1068-11eb-8f0d-e5ac1dc4701c.png)
 
-2. Ketahui terlebih dahulu perintah - perintah dasar untuk memulai menggunakan git, berikut ini adalah perintah - perintah yang digunakan git.
+ 2. Ketahui terlebih dahulu perintah - perintah dasar untuk memulai menggunakan git, berikut ini adalah perintah - perintah yang digunakan git.
 
    - `git init`, perintah untuk membuat repository local
    
@@ -122,7 +122,7 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
    
    - `git pull`, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
 
-3. Membuat Reposity Local, ikutilah langka - langka berikut ini untuk Reposity Local.
+ 3. Membuat Reposity Local, ikutilah langka - langka berikut ini untuk Reposity Local.
 
    - Buat direktori dengan nama bebas, untuk lokasi direktori bebas bisa di C:/ ataupun D:/, disini saya lokasi direktory di **C:\Users\Jose Fisto\Desktop\Pertama**. folder tersebut nantinya untuk menyimpan update file dari repository GitHub yang telah dibuat.
    
@@ -157,7 +157,7 @@ directory).
    
    - Pada direktori tersebut, semua perubahan pada working directori akan disimpan.
 
-4. Menambahkan File baru pada repository
+ 4. Menambahkan File baru pada repository
    
    - Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
    
@@ -177,7 +177,7 @@ directory).
    
       ![git_add](https://user-images.githubusercontent.com/72792261/96333980-84db4200-1097-11eb-90ee-4b7b561a41ba.png)
    
-5. *Commit* (Menyimpan perubahan ke database)
+ 5. *Commit* (Menyimpan perubahan ke database)
 
    - Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
    
@@ -187,7 +187,7 @@ directory).
    
       ![Screenshot_1](https://user-images.githubusercontent.com/72792261/96335151-7ba2a300-10a0-11eb-9c2c-f1d4973c82f0.png)
 
-6. Membuat repository server
+ 6. Membuat repository server
 
    - Server reopsitory yang akan kita gunakan adalah http://github.com
    
@@ -205,7 +205,7 @@ directory).
    
       ![nambang](https://user-images.githubusercontent.com/72792261/96335407-9b3acb00-10a2-11eb-80cc-a552f2589479.png)
    
-7. Menambah Remote Repository
+ 7. Menambah Remote Repository
 
    - Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository,
 sehingga dapat diakses oleh banyak user.
@@ -217,7 +217,7 @@ sehingga dapat diakses oleh banyak user.
       ![git_remote_add_origin](https://user-images.githubusercontent.com/72792261/96336311-012a5100-10a9-11eb-8717-ff3fcbcbba9f.png)
 
     
-8. Push (Mengirim perubahan ke server)
+ 8. Push (Mengirim perubahan ke server)
 
    - Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
    
@@ -227,13 +227,15 @@ sehingga dapat diakses oleh banyak user.
    
       ![git_push_-u_origin_master](https://user-images.githubusercontent.com/72792261/96336309-fff92400-10a8-11eb-97ec-275eee45cc90.png)
     
-9. Melihat hasilnya pada server repository
+ 9. Melihat hasilnya pada server repository
 
    - Buka laman github.com, arahkan pada repositorinya.
    
    - Maka perubahan akan terlihat pada laman tersebut.
    
       ![Print_out](https://user-images.githubusercontent.com/72792261/96336382-962d4a00-10a9-11eb-8d86-21829cba731c.png)
+
+ 10. Clone Repository
 
    - Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
        
