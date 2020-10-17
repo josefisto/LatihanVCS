@@ -5,6 +5,7 @@ Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna b
   * [Apa itu GIT](#Apa-itu-GIT)
   * [Bagaimana cara menggunakan GIT](#Bagaimana-cara-menggunakan-GIT)
      * [Instalasi GIT](#Instalasi-git)
+     * [Cara Menggunakan GIT](#Cara-Menggunakan-GIT)
      
 ## Apa itu GIT
 
