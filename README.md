@@ -105,20 +105,23 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
  Pertama kali untuk menggunakan GIT, kalian bisa mendaftarkan diri atau menggunakan akun GitHub, Gitlab, atau Bitbucket. Jika sudah mendaftarkan diri buka Command Prompt (CMD) pada komputer atau laptop kalian dan tuliskan perintah - perintah di bawah ini lalau kita eksekusikan atau jalankan.
 
    `git config --global user.name “nama_user”`
+      
+      ![user_name](https://user-images.githubusercontent.com/72792261/96339360-7ce2c880-10be-11eb-8d20-0f3f20b3a286.png)   
    
    digunakan untuk menyertakan nama pengguna dari akun git
    
    `git config --global user.email “nama_user”`
+      
+      ![user_email](https://user-images.githubusercontent.com/72792261/96339356-7b190500-10be-11eb-8fec-704e75bfdfcb.png)
    
    digunakan untuk menyertakan pengguna email dari akun git
    
    `git config --list`
-   
+      
+      ![user_--list](https://user-images.githubusercontent.com/72792261/96339359-7c4a3200-10be-11eb-918a-a92a1adbd13e.png)
+
    untuk mengetahui bahwa akun sudah terdaftar atau tidak
    
-   berikut ini adalah gambar dari perintah - perintah yang sudah di jalankan.
-   
-      ![metode_](https://user-images.githubusercontent.com/72792261/96328006-d02a2c00-1068-11eb-8f0d-e5ac1dc4701c.png)
 
 ### Perintah Dasar Git
 
