@@ -56,7 +56,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![download_git7](https://user-images.githubusercontent.com/72792261/95879668-ce2e4780-0da0-11eb-8787-0ef2ea60d572.png)
 
-11. Disini saya memilih default. agar kita bisa git pull atau menyimpan langsung ke server atau kita bisa bikin folder dengan format .crt untuk metode penggabungan. Klik `Next` untuk melanjutkan instalasi.
+11. Disini saya memilih default. Perintah git pull akan mengambil commit terbaru lalu otomatis menggabungkan (merge) dengan branch yang aktif jika tidak bisa maka langsung di commit-kan dengan folder yg baru. Klik `Next` untuk melanjutkan instalasi.
 
       ![download_git8](https://user-images.githubusercontent.com/72792261/95879676-cf5f7480-0da0-11eb-93ba-703eb0bf0dff.png)
 
