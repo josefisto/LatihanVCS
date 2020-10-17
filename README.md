@@ -128,13 +128,13 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
 
    `git init`, perintah untuk membuat repository local
    
-   `git add`, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.
+   `git add`, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit
    
-   `git commit`, perintah untuk menyimpan perubahan kedalam database git.
+   `git commit`, perintah untuk menyimpan perubahan kedalam database git
    
-   `git push -u origin master`, perintah untuk mengirim perubahan pada repository local menuju server repository.
+   `git push -u origin master`, perintah untuk mengirim perubahan pada repository local menuju server repository
    
-   `git clone [url]`, perintah untuk membuat working directory yang diambil dari repositry sever.
+   `git clone [url]`, perintah untuk membuat working directory yang diambil dari repositry sever
    
    `git remote add origin [url]`, perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
    
@@ -144,32 +144,32 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
 
 ### Membuat Reposity Local, ikutilah langka - langka berikut ini untuk Reposity Local.
 
-   * Buat direktori dengan nama bebas, untuk lokasi direktori bebas bisa di C:/ ataupun D:/, disini saya lokasi direktory di **C:\Users\Jose Fisto\Desktop\Pertama**. folder tersebut nantinya untuk menyimpan update file dari repository GitHub yang telah dibuat.
+   * Buat direktori dengan nama bebas, untuk lokasi direktori bebas bisa di C:/ ataupun D:/, disini saya lokasi direktory di **C:\Users\Jose Fisto\Desktop\Pertama**. folder tersebut nantinya untuk menyimpan update file dari repository GitHub yang telah dibuat
    
       ![direktori](https://user-images.githubusercontent.com/72792261/96332802-6291f600-1090-11eb-8190-2807ada472c7.png)
 
-   * jika sudah, selanjutnya kita buka direktory yamg sudah dibuat dengan cara klik kanan lalu pilih `Git Bash Here`, jika sudah nanti akan teralihkan ke *Git bash command*.
+   * jika sudah, selanjutnya kita buka direktory yamg sudah dibuat dengan cara klik kanan lalu pilih `Git Bash Here`, jika sudah nanti akan teralihkan ke *Git bash command*
    
       ![get_bash_here](https://user-images.githubusercontent.com/72792261/96333068-f7e1ba00-1091-11eb-9be6-1c60d9220ab8.png)
    
-   * Buat direktori proyek praktikum pertama dengan nama apa saja, disini saya menamakannya "Sejarah". dengan perintah di bawah ini.
+   * Buat direktori proyek praktikum pertama dengan nama apa saja, disini saya menamakannya "Sejarah". dengan perintah di bawah ini
 
       `mkdir Sejarah`
       
       ![mkdir_sejarah](https://user-images.githubusercontent.com/72792261/96333154-7dfe0080-1092-11eb-8e3d-9c52cfbff3af.png)
    
    * Jika sudah maka terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change
-directory).
+directory)
 
       `cd Sejarah`
       
       ![cd_sejarah](https://user-images.githubusercontent.com/72792261/96333513-94a55700-1094-11eb-9d2e-18155a76b356.png)
    
-   * maka nanti direktory akan menjadi C:\Users\Jose Fisto\Desktop\Pertama\Sejarah.
+   * maka nanti direktory akan menjadi C:\Users\Jose Fisto\Desktop\Pertama\Sejarah
    
       ![slth_cd_sejarah](https://user-images.githubusercontent.com/72792261/96333514-95d68400-1094-11eb-94e4-40ad13b53318.png)
    
-   * Jalankan perintah `git init`, untuk membuat repository local.
+   * Jalankan perintah `git init`, untuk membuat repository local
    
       ![git_init](https://user-images.githubusercontent.com/72792261/96333450-2c567580-1094-11eb-9b23-f88d230fb40b.png)
       
@@ -185,11 +185,11 @@ directory).
    
      `$ echo “#Sejarah Komputer” >> README.md`
    
-   * File **README.md** berhasil dibuat.
+   * File **README.md** berhasil dibuat
    
       ![README_md](https://user-images.githubusercontent.com/72792261/96333982-86a50580-1097-11eb-9b85-035d4c8c2f73.png)
    
-   * Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
+   * Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add
      
      `$ git add README.md`
      
@@ -211,7 +211,7 @@ directory).
 
    * Server reopsitory yang akan kita gunakan adalah http://github.com
    
-   * Anda harus membuat akun terlebih dahulu.
+   * Anda harus membuat akun terlebih dahulu
    
    * Pada laman github, klik tombol start a project, atau
    
@@ -219,7 +219,7 @@ directory).
    
       ![inikah](https://user-images.githubusercontent.com/72792261/96335318-1780de80-10a2-11eb-9bf9-3b74693bb326.png)
 
-   * Isi nama repositorynya, misal: Prasejarah.
+   * Isi nama repositorynya, misal: Prasejarah
 
    * lalu klik tombol Create repository.
    
@@ -228,35 +228,35 @@ directory).
 ### Menambah Remote Repository
 
    * Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository,
-sehingga dapat diakses oleh banyak user.
+sehingga dapat diakses oleh banyak user
 
-   * Untuk menambahkan remote repository server, gunakan perintah **git remote add origin [url]**
+   * Untuk menambahkan remote repository server, gunakan perintah **git remote add origin [url]**.
      
      `$ git remote add origin https://github.com/josefisto/Prasejarah.git`
      
-      ![git_remote_add_origin](https://user-images.githubusercontent.com/72792261/96336311-012a5100-10a9-11eb-8717-ff3fcbcbba9f.png).
+      ![git_remote_add_origin](https://user-images.githubusercontent.com/72792261/96336311-012a5100-10a9-11eb-8717-ff3fcbcbba9f.png)
       
 ### Push (Mengirim perubahan ke server)
 
-   * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
+   * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push
         
         `$ git push -u origin master`
-   * Perintah ini akan meminta memasukkan username dan password pada akun github.com
+   * Perintah ini akan meminta memasukkan username dan password pada akun github.com.
    
       ![push](https://user-images.githubusercontent.com/72792261/96337397-10150180-10b1-11eb-84de-d939cf2e131c.png)
      
 ### Melihat hasilnya pada server repository
 
-   * Buka laman github.com, arahkan pada repositorinya.
+   * Buka laman github.com, arahkan pada repositorinya
    
-   * Maka perubahan akan terlihat pada laman tersebut.
+   * Maka perubahan akan terlihat pada laman tersebut
    
       ![Print_out](https://user-images.githubusercontent.com/72792261/96336382-962d4a00-10a9-11eb-8d86-21829cba731c.png)
       
  ### Clone Repository
  
-   * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
+   * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory)
    
-   * Untuk melakukan cloning, gunakan perintah git clone [url]
+   * Untuk melakukan cloning, gunakan perintah `git clone [url]`.
    
       ![cloning](https://user-images.githubusercontent.com/72792261/96337395-0d1a1100-10b1-11eb-8d4f-2af439f3599c.png)
