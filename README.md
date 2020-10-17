@@ -234,12 +234,10 @@ sehingga dapat diakses oleh banyak user.
    - Maka perubahan akan terlihat pada laman tersebut.
    
       ![Print_out](https://user-images.githubusercontent.com/72792261/96336382-962d4a00-10a9-11eb-8d86-21829cba731c.png)
-   
-10. Clone Repository
 
    - Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
-   
+       
    - Untuk melakukan cloning, gunakan perintah **git clone [url]**
-   
+
       ![cloning](https://user-images.githubusercontent.com/72792261/96336538-be697880-10aa-11eb-87d5-acf651f604d5.png)
 
