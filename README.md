@@ -74,5 +74,14 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
     Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
 
-       ![download_git13](https://user-images.githubusercontent.com/72792261/95879686-d1c1ce80-0da0-11eb-9e95-965d165e47cb.png)
+      ![download_git13](https://user-images.githubusercontent.com/72792261/95879686-d1c1ce80-0da0-11eb-9e95-965d165e47cb.png)
+      
+15. Setelah proses instalasi selesai, Anda perlu mengecek apakah instalasi Git berhasil atau tidak. Anda bisa mengeceknya melalui Command Prompt. Klik Win+R lalu ketik CMD untuk membuka Command Prompt seperti di bawah ini.
 
+      ![running](https://user-images.githubusercontent.com/72792261/96327324-d6b5a500-1062-11eb-87ef-23c522d59997.png)
+      
+      Selanjutnya masukkan perintah berikut `git --version` untuk cek versi git dan cek apakah Git sudah terinstall di komputer Anda. jika sudah maka tampilan akan di bawah seperti ini
+      
+      ![cmd](https://user-images.githubusercontent.com/72792261/96327332-e1703a00-1062-11eb-8c3c-ebe8db4215af.png)
+
+      
