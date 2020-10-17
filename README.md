@@ -119,3 +119,67 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
    
    - `git pull`, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
 
+3. Membuat Reposity Local, ikutilah langka - langka berikut ini untuk Reposity Local.
+
+   - Buat direktori dengan nama bebas, untuk lokasi direktori bebas bisa di C:/ ataupun D:/, disini saya lokasi direktory di **C:\Users\Jose Fisto\Desktop\Pertama**. folder tersebut nantinya untuk menyimpan update file dari repository GitHub yang telah dibuat.
+   
+      ![direktori](https://user-images.githubusercontent.com/72792261/96332802-6291f600-1090-11eb-8190-2807ada472c7.png)
+
+   - jika sudah, selanjutnya kita buka direktory yamg sudah dibuat dengan cara klik kanan lalu pilih `Git Bash Here`, jika sudah nanti akan teralihkan ke *Git bash command*.
+   
+      ![get_bash_here](https://user-images.githubusercontent.com/72792261/96333068-f7e1ba00-1091-11eb-9be6-1c60d9220ab8.png)
+   
+   - Buat direktori proyek praktikum pertama dengan nama apa saja, disini saya menamakannya "Sejarah". dengan perintah di bawah ini.
+
+      `mkdir Sejarah`
+      
+      ![mkdir_sejarah](https://user-images.githubusercontent.com/72792261/96333154-7dfe0080-1092-11eb-8e3d-9c52cfbff3af.png)
+   
+   - Jika sudah maka terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change
+directory).
+
+      `cd Sejarah`
+      
+      ![cd_sejarah](https://user-images.githubusercontent.com/72792261/96333513-94a55700-1094-11eb-9d2e-18155a76b356.png)
+   
+   - maka nanti direktory akan menjadi C:\Users\Jose Fisto\Desktop\Pertama\Sejarah.
+   
+      ![slth_cd_sejarah](https://user-images.githubusercontent.com/72792261/96333514-95d68400-1094-11eb-94e4-40ad13b53318.png)
+   
+   - Jalankan perintah `git init`, untuk membuat repository local.
+   
+      ![git_init](https://user-images.githubusercontent.com/72792261/96333450-2c567580-1094-11eb-9b23-f88d230fb40b.png)
+      
+   - Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git
+   
+   - Pada direktori tersebut, semua perubahan pada working directori akan disimpan.
+
+4. Menambahkan File baru pada repository
+   
+   - Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
+   
+   - disini kita akan coba buat satu file bernama README.md (text file)
+   
+     `$ echo “# Latihan 1” >> README.md`
+   
+   - File **README.md** berhasil dibuat.
+   
+     ![README_md](https://user-images.githubusercontent.com/72792261/96333982-86a50580-1097-11eb-9b85-035d4c8c2f73.png)
+   
+   - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
+     
+     `$ git add README.md`
+     
+   - File README.md berhasil ditambahkan.
+   
+   ![git_add](https://user-images.githubusercontent.com/72792261/96333980-84db4200-1097-11eb-90ee-4b7b561a41ba.png)
+   
+5. *Commit* (Menyimpan perubahan ke database)
+
+   - Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
+   
+     `$ git commit -m “Sejarah Komputer"`
+     
+   - Perubahan berhasil disimpan.
+   
+     
