@@ -15,7 +15,7 @@ Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna b
 Untuk pertama kali atau baru mencoba kita bingung bagaimana caranya menggunakan git begitu juga saya demikian pada awalnya, disini saya akan memberitahu kepada kalian **Bagaimana cara menggunakan GIT** jadi simaklah pada langkah - langkah dibawah ini.
 
 ### Instalasi GIT
-Hal pertama yang harus kita lakukan adalah instalasi GIT pada komputer atau laptop pada laptop. kenapa kita harus instal atau memasang GIT ? penting bagi kita untuk memasang git jika tidak memasang git maka kita tidak bisa melakukan proses pembuatan hal - hal yang kita kreasikan. 
+Hal pertama yang harus kita lakukan adalah instalasi GIT pada komputer atau laptop pada laptop. berikut ini adalah bagaimana cara instalasi git dan penjelasan dari beberapa intruksi yang akan di instalasi nantinya.
 
 untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut ini :
 
@@ -85,5 +85,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
       ![cmd](https://user-images.githubusercontent.com/72792261/96327413-94d92e80-1063-11eb-9541-552cc07e0066.png)
 
 
+### Cara Menggunakan Git
+Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. Berikut ini merupakan langkah menggunakan Git.
 
-      
+1. 
