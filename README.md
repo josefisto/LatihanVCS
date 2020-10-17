@@ -2,12 +2,19 @@
 Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
 
 **Daftar Isi**
-  * [Apa itu GIT](#Apa-itu-GIT)
-  * [Bagaimana cara menggunakan GIT](#Bagaimana-cara-menggunakan-GIT)
-    * [Instalasi GIT](#Instalasi-git)
-    
-  * [Penggunaan GIT](#Penggunaan-GIT]
-
+* [Apa itu GIT](#apa-itu-git)
+* [Bagaimana cara menggunakan GIT](#bagaimana-cara-menggunakan-git)
+    * [Instalasi GIT](#instalasi-git)
+* [Penggunaan GIT](#penggunaan-git)
+    * [Menambahkan Global Config](#menambahkan-global-config)
+    * [Perintah Dasar Git](#perintah-dasarigit)
+    * [Reposity Local](#reposity-local)
+    * [Menambahkan File baru pada repository](#menambahkan-file-baru-pada-repository)
+    * [*Commit* (Menyimpan perubahan ke database)](#*commit*-(menyimpan-perubahan-ke-database))
+    * [](#)
+    * [](#)
+    * [](#)
+    * [](#)
     
 ## Apa itu GIT
 
