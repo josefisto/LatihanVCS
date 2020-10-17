@@ -90,13 +90,16 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
 
 1. Pertama kali untuk menggunakan GIT, kalian bisa mendaftarkan diri atau menggunakan akun GitHub, Gitlab, atau Bitbucket. Jika sudah mendaftarkan diri buka Command Prompt (CMD) pada komputer atau laptop kalian dan tuliskan perintah - perintah di bawah ini lalau kita eksekusikan atau jalankan.
 
-   `git config --global user.name “nama_user”`
+   - `git config --global user.name “nama_user”`
+   
    digunakan untuk menyertakan nama pengguna dari akun git
    
-   `git config --global user.email “nama_user”`
+   - `git config --global user.email “nama_user”`
+   
    digunakan untuk menyertakan pengguna email dari akun git
    
-   `git config --list`
+   - `git config --list`
+   
    untuk mengetahui bahwa akun sudah terdaftar atau tidak
    
    berikut ini adalah gambar dari perintah - perintah yang sudah di jalankan.
@@ -160,7 +163,7 @@ directory).
    
    - disini kita akan coba buat satu file bernama README.md (text file)
    
-     `$ echo “# Latihan 1” >> README.md`
+     `$ echo “#Sejarah Komputer” >> README.md`
    
    - File **README.md** berhasil dibuat.
    
@@ -182,4 +185,61 @@ directory).
      
    - Perubahan berhasil disimpan.
    
+      ![Screenshot_1](https://user-images.githubusercontent.com/72792261/96335151-7ba2a300-10a0-11eb-9c2c-f1d4973c82f0.png)
+
+6. Membuat repository server
+
+   - Server reopsitory yang akan kita gunakan adalah http://github.com
+   
+   - Anda harus membuat akun terlebih dahulu.
+   
+   - Pada laman github, klik tombol start a project, atau
+   
+   - Dari menu (icon +) klik New Repository
+   
+      ![inikah](https://user-images.githubusercontent.com/72792261/96335318-1780de80-10a2-11eb-9bf9-3b74693bb326.png)
+
+   - Isi nama repositorynya, misal: labpy1.
+
+   - lalu klik tombol Create repository.
+   
+      ![nambang](https://user-images.githubusercontent.com/72792261/96335407-9b3acb00-10a2-11eb-80cc-a552f2589479.png)
+   
+7. Menambah Remote Repository
+
+   - Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository,
+sehingga dapat diakses oleh banyak user.
+
+   - Untuk menambahkan remote repository server, gunakan perintah **git remote add origin [url]**
      
+     `$ git remote add origin https://github.com/josefisto/Prasejarah.git`
+     
+      ![git_remote_add_origin](https://user-images.githubusercontent.com/72792261/96336311-012a5100-10a9-11eb-8717-ff3fcbcbba9f.png)
+
+    
+8. Push (Mengirim perubahan ke server)
+
+   - Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
+   
+     `$ git push -u origin master`
+   
+   - Perintah ini akan meminta memasukkan username dan password pada akun github.com.
+   
+      ![git_push_-u_origin_master](https://user-images.githubusercontent.com/72792261/96336309-fff92400-10a8-11eb-97ec-275eee45cc90.png)
+    
+9. Melihat hasilnya pada server repository
+
+   - Buka laman github.com, arahkan pada repositorinya.
+   
+   - Maka perubahan akan terlihat pada laman tersebut.
+   
+      ![Print_out](https://user-images.githubusercontent.com/72792261/96336382-962d4a00-10a9-11eb-8d86-21829cba731c.png)
+   
+10. Clone Repository
+
+   - Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
+   
+   - Untuk melakukan cloning, gunakan perintah **git clone [url]**
+   
+      ![cloning](https://user-images.githubusercontent.com/72792261/96336538-be697880-10aa-11eb-87d5-acf651f604d5.png)
+
