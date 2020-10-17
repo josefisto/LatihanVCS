@@ -60,11 +60,11 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![download_git8](https://user-images.githubusercontent.com/72792261/95879676-cf5f7480-0da0-11eb-93ba-703eb0bf0dff.png)
 
-12. Pilih Enable **File System Caching** agar Git memiliki fungsi system caching. Kedua, Klik `Next` untuk melanjutkan instalasi.
+12. Pilih **Git Credential Manager** agar Git bisa dikombinasikan dengan aplikasi lain seperti Visual Studio, Android Studio, dan GitHub. Klik `Next` untuk melanjutkan instalasi. 
 
       ![download_git9](https://user-images.githubusercontent.com/72792261/95879677-cff80b00-0da0-11eb-81ff-9846448ff18f.png)
 
-13. Pilih Enable Git Credential Manager agar Git bisa dikombinasikan dengan aplikasi lain seperti Visual Studio, Android Studio, dan GitHub. Klik `Next` untuk melanjutkan instalasi.
+13. Pilih Enable **File System Caching** agar Git memiliki fungsi system caching. Kedua, Klik `Next` untuk melanjutkan instalasi.
 
       ![download_git10](https://user-images.githubusercontent.com/72792261/95879679-d090a180-0da0-11eb-824b-13af95d41f3e.png)
 
