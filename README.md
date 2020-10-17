@@ -32,27 +32,27 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![download_git1](https://user-images.githubusercontent.com/72792261/95875111-dcc63000-0d9b-11eb-827a-ee22cc7d0d2d.png)
 
-5. Kemudian pilih komponen tambahan untuk install Git. Fungsi komponen ini adalah untuk memperlancar penggunaan Git dan mendukung file dengan kapasitas besar. Sesuaikan komponen tambahan yang dipilih seperti pada gambar di bawah ini. Jika sudah klik Next untuk melanjutkan instalasi.
+5. Kemudian pilih komponen tambahan untuk install Git. Fungsi komponen ini adalah untuk memperlancar penggunaan Git dan mendukung file dengan kapasitas besar. Sesuaikan komponen tambahan yang dipilih seperti pada gambar di bawah ini. Jika sudah klik `Next` untuk melanjutkan instalasi.
 
       ![download_git2](https://user-images.githubusercontent.com/72792261/95879636-ca022a00-0da0-11eb-9790-d6e9f764d277.png)
 
-6. asdsad
+6. Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pilih Vim Editor. Klik `Next` apabila Anda sudah menentukan file editor yang akan Anda gunakan
 
       ![download_git3](https://user-images.githubusercontent.com/72792261/95879655-cb335700-0da0-11eb-8091-7f06f5f21528.png)
 
-7. asdasa
+7. Path Environment berfungsi untuk mengeksekusi perintah perintah pada Git. Pilih **Git from the command line and also from 3rd-party software** agar saat menjalankan perintah Git dapat dikenali di **Command Prompt (CMD)** pada Windows. Lalu Klik `Next`
 
       ![download_git4](https://user-images.githubusercontent.com/72792261/95879660-cc648400-0da0-11eb-90a5-2507f2fef13e.png)
 
-8. asdasd
+8. Kemudian mengeksekusi SSH. Pilih Use OpenSSH, aplikasi default SSH dari Git. Klik `Next` untuk melanjutkan instalasi.
 
       ![download_git5](https://user-images.githubusercontent.com/72792261/95879662-ccfd1a80-0da0-11eb-91ce-2a89be4526a6.png)
 
-9. asdasd
+9. Selanjutnya, Anda perlu memilih pengaturan line ending. Pada tutorial ini kami memilih **Checkout Windows-style, commit Unix-style line endings**. Klik `Next` untuk melanjutkan instalasi.
 
       ![download_git6](https://user-images.githubusercontent.com/72792261/95879666-cd95b100-0da0-11eb-9f2a-b19e65d8f72b.png)
 
-10. asdsa
+10. Setelah itu, disini terdapat 2 opsi, opsi pertama kita bisa gunakan MinTTY atau Command Prompt. Karena sudah friendly dengan CMD (Command Prompt), Maka saya memilih **Use Windows’ default console windows**. Klik `Next` untuk melanjutkan instalasi.
 
       ![download_git7](https://user-images.githubusercontent.com/72792261/95879668-ce2e4780-0da0-11eb-8787-0ef2ea60d572.png)
 
