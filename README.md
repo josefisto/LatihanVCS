@@ -8,7 +8,7 @@ Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna b
 * [Penggunaan GIT](#penggunaan-git)
     * [Menambahkan Global Config](#menambahkan-global-config)
     * [Perintah Dasar Git](#perintah-dasarigit)
-    * [Reposity Local](#reposity-local)
+    * [Membuat Repository Local](#repository-local)
     * [Menambahkan File baru pada repository](#menambahkan-file-baru-pada-repository)
     * [*Commit* (Menyimpan perubahan ke database)](#*commit*-(menyimpan-perubahan-ke-database))
     * [Membuat repository server](#membuat-repository-server)
@@ -140,13 +140,13 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
    
    `git pull`, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
 
- Reposity Local
+### Membuat Repository Local
 
-### Membuat Reposity Local, ikutilah langka - langka berikut ini untuk Reposity Local.
+ Membuat Repository Local, ikutilah langka - langka berikut ini untuk Repository Local
 
    * Buat direktori dengan nama bebas, untuk lokasi direktori bebas bisa di C:/ ataupun D:/, disini saya lokasi direktory di **C:\Users\Jose Fisto\Desktop\Pertama**. folder tersebut nantinya untuk menyimpan update file dari repository GitHub yang telah dibuat
    
-      ![direktori](https://user-images.githubusercontent.com/72792261/96332802-6291f600-1090-11eb-8190-2807ada472c7.png)
+      ![Membuat Repository Local](PenggunaanGit/direktori.png)
 
    * jika sudah, selanjutnya kita buka direktory yamg sudah dibuat dengan cara klik kanan lalu pilih `Git Bash Here`, jika sudah nanti akan teralihkan ke *Git bash command*
    
