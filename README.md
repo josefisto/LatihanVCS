@@ -45,55 +45,55 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
 5. Kemudian pilih komponen tambahan untuk install Git. Fungsi komponen ini adalah untuk memperlancar penggunaan Git dan mendukung file dengan kapasitas besar. Sesuaikan komponen tambahan yang dipilih seperti pada gambar di bawah ini. Jika sudah klik `Next` untuk melanjutkan instalasi.
 
-      ![download_git2](https://user-images.githubusercontent.com/72792261/95879636-ca022a00-0da0-11eb-9790-d6e9f764d277.png)
+      ![Instalasi GIT](isntalasigit/download_git2.png)
 
 6. Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pilih Vim Editor. Klik `Next` apabila Anda sudah menentukan file editor yang akan Anda gunakan
 
-      ![download_git3](https://user-images.githubusercontent.com/72792261/95879655-cb335700-0da0-11eb-8091-7f06f5f21528.png)
+      ![Instalasi GIT](instalasigit/download_git3.png)
 
 7. Path Environment berfungsi untuk mengeksekusi perintah perintah pada Git. Pilih **Git from the command line and also from 3rd-party software** agar saat menjalankan perintah Git dapat dikenali di **Command Prompt (CMD)** pada Windows. Lalu Klik `Next`
 
-      ![download_git4](https://user-images.githubusercontent.com/72792261/95879660-cc648400-0da0-11eb-90a5-2507f2fef13e.png)
+      ![Instalasi GIT](instlasigit/download_git4.png)
 
 8. Kemudian mengeksekusi SSH. Pilih Use OpenSSH, aplikasi default SSH dari Git. Klik `Next` untuk melanjutkan instalasi.
 
-      ![download_git5](https://user-images.githubusercontent.com/72792261/95879662-ccfd1a80-0da0-11eb-91ce-2a89be4526a6.png)
+      ![Instalasi GIT](instalasigit/download_git5.png)
 
 9. Selanjutnya, Anda perlu memilih pengaturan line ending. Pada tutorial ini kami memilih **Checkout Windows-style, commit Unix-style line endings**. Klik `Next` untuk melanjutkan instalasi.
 
-      ![download_git6](https://user-images.githubusercontent.com/72792261/95879666-cd95b100-0da0-11eb-9f2a-b19e65d8f72b.png)
+      ![Instalasi GIT](instalasigit/download_git6.png)
 
 10. Setelah itu, disini terdapat 2 opsi, opsi pertama kita bisa gunakan MinTTY atau Command Prompt. Karena sudah friendly dengan CMD (Command Prompt), Maka saya memilih **Use Windows’ default console windows**. Klik `Next` untuk melanjutkan instalasi.
 
-      ![download_git7](https://user-images.githubusercontent.com/72792261/95879668-ce2e4780-0da0-11eb-8787-0ef2ea60d572.png)
+      ![Instalasi GIT](isntalasigit/download_git7.png)
 
 11. Disini saya memilih default. Pada opsi ini kita bisa melakukan gitpull langsung dari server git, jika tidak bisa maka bisa membuat dengan metode penggabungan komit. Klik `Next` untuk melanjutkan instalasi.
 
-      ![download_git8](https://user-images.githubusercontent.com/72792261/95879676-cf5f7480-0da0-11eb-93ba-703eb0bf0dff.png)
+      ![Instalasi GIT](isntlasigit/download_git8.png)
 
 12. Pilih **Git Credential Manager** agar Git bisa dikombinasikan dengan aplikasi lain seperti Visual Studio, Android Studio, dan GitHub. Klik `Next` untuk melanjutkan instalasi. 
 
-      ![download_git9](https://user-images.githubusercontent.com/72792261/95879677-cff80b00-0da0-11eb-81ff-9846448ff18f.png)
+      ![Instalasi GIT](instalasigit/download_git9.png)
 
 13. Pilih Enable **File System Caching** agar Git memiliki fungsi system caching. Kedua, Klik `Next` untuk melanjutkan instalasi.
 
-      ![download_git10](https://user-images.githubusercontent.com/72792261/95879679-d090a180-0da0-11eb-824b-13af95d41f3e.png)
+      ![Instalasi GIT](instalasigit/download_git10.png)
 
 14. Setelah menambahkan konfigurasi ekstra pada Git, Anda bisa memulai proses instalasi Git. Klik Install untuk melanjutkan proses.
 
-      ![download_git11](https://user-images.githubusercontent.com/72792261/95879683-d1293800-0da0-11eb-9d2d-e4dbd6657530.png)
+      ![Instalasi GIT](instalasigit/download_git11.png)
 
     Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
 
-      ![download_git13](https://user-images.githubusercontent.com/72792261/95879686-d1c1ce80-0da0-11eb-9e95-965d165e47cb.png)
+      ![Instalasi GIT](instalasigit/download_git13.png)
       
 15. Setelah proses instalasi selesai, Anda perlu mengecek apakah instalasi Git berhasil atau tidak. Anda bisa mengeceknya melalui Command Prompt. Klik Win+R lalu ketik CMD untuk membuka Command Prompt seperti di bawah ini.
 
-      ![running](https://user-images.githubusercontent.com/72792261/96327324-d6b5a500-1062-11eb-87ef-23c522d59997.png)
+      ![Instalasi GIT](instalasigit/running.png)
       
     Selanjutnya masukkan perintah berikut `git --version` untuk cek versi git dan cek apakah Git sudah terinstall di komputer Anda. jika sudah maka tampilan akan di bawah seperti ini
       
-      ![cmd](https://user-images.githubusercontent.com/72792261/96327413-94d92e80-1063-11eb-9541-552cc07e0066.png)
+      ![Instalasi GIT](instalasigit/cmd.png)
 
 ## Penggunaan GIT
 
