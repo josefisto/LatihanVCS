@@ -37,11 +37,11 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
 3. jika sudah maka installer git akan terdownload dan tunggu hingga selesai, langkah berikutnya buka installer git yang sudah terdownload dengan cara klik 2x atau klik kanan `Run as administrator`
 
-      ![download_git0](https://user-images.githubusercontent.com/72792261/95875725-8ad1da00-0d9c-11eb-9925-ae3ea5c2b3f6.png)
+      ![Instalasi GIT](instalasigit/download_git0.png)
 
 4. Setelah selesai mengunduh file Git, buka setup aplikasi Git untuk memulai proses instalasi. Halaman awal setelah Anda membuka setup aplikasi Git adalah tampilan Document License dari Git. Klik `Next` untuk melanjutkan instalasi.
 
-      ![download_git1](https://user-images.githubusercontent.com/72792261/95875111-dcc63000-0d9b-11eb-827a-ee22cc7d0d2d.png)
+      ![Instlasi GIT](instalasigit/download_git1.png)
 
 5. Kemudian pilih komponen tambahan untuk install Git. Fungsi komponen ini adalah untuk memperlancar penggunaan Git dan mendukung file dengan kapasitas besar. Sesuaikan komponen tambahan yang dipilih seperti pada gambar di bawah ini. Jika sudah klik `Next` untuk melanjutkan instalasi.
 
