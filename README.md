@@ -108,7 +108,7 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
    
       digunakan untuk menyertakan nama pengguna dari akun git, hasilnya di bawah ini
    
-      ![un](https://user-images.githubusercontent.com/72792261/96339471-23c76480-10bf-11eb-9638-4a34240f8ba8.png)
+      ![Menambahkan Global Config](PenggunaanGit/un.png)
    
    * `git config --global user.email “nama_user”`
        
