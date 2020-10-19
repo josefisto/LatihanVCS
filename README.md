@@ -150,28 +150,28 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
 
    * jika sudah, selanjutnya kita buka direktory yamg sudah dibuat dengan cara klik kanan lalu pilih `Git Bash Here`, jika sudah nanti akan teralihkan ke *Git bash command*
    
-      ![get_bash_here](https://user-images.githubusercontent.com/72792261/96333068-f7e1ba00-1091-11eb-9be6-1c60d9220ab8.png)
+      ![Membuat Repository Local](PenggunaanGit/get_bash_here.png)
    
    * Buat direktori proyek praktikum pertama dengan nama apa saja, disini saya menamakannya "Sejarah". dengan perintah di bawah ini
 
       `mkdir Sejarah`
       
-      ![mkdir_sejarah](https://user-images.githubusercontent.com/72792261/96333154-7dfe0080-1092-11eb-8e3d-9c52cfbff3af.png)
+      ![Membuat Repository Local](PenggunaanGit/mkdir_sejarah.png)
    
    * Jika sudah maka terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change
 directory)
 
       `cd Sejarah`
       
-      ![cd_sejarah](https://user-images.githubusercontent.com/72792261/96333513-94a55700-1094-11eb-9d2e-18155a76b356.png)
+      ![Membuat Repository Local](PenggunaanGit/cd_sejarah.png)
    
    * maka nanti direktory akan menjadi C:\Users\Jose Fisto\Desktop\Pertama\Sejarah
    
-      ![slth_cd_sejarah](https://user-images.githubusercontent.com/72792261/96333514-95d68400-1094-11eb-94e4-40ad13b53318.png)
+      ![Membuat Repository Local](PenggunaanGit/slth_cd_sejarah.png)
    
    * Jalankan perintah `git init`, untuk membuat repository local
    
-      ![git_init](https://user-images.githubusercontent.com/72792261/96333450-2c567580-1094-11eb-9b23-f88d230fb40b.png)
+      ![Membuat Repository Local](PenggunaanGit/git_init.png)
       
    * Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git
    
@@ -187,7 +187,7 @@ directory)
    
    * File **README.md** berhasil dibuat
    
-      ![README_md](https://user-images.githubusercontent.com/72792261/96333982-86a50580-1097-11eb-9b85-035d4c8c2f73.png)
+      ![Menambahkan File baru pada repository](PenggunaanGit/README_md.png)
    
    * Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add
      
@@ -195,7 +195,7 @@ directory)
      
    * File README.md berhasil ditambahkan.
    
-      ![git_add](https://user-images.githubusercontent.com/72792261/96333980-84db4200-1097-11eb-90ee-4b7b561a41ba.png)
+      ![Menambahkan File baru pada repository](PenggunaanGit/git_add.png)
    
 ### *Commit* (Menyimpan perubahan ke database)
 
@@ -205,7 +205,7 @@ directory)
      
    * Perubahan berhasil disimpan.
    
-      ![Screenshot_1](https://user-images.githubusercontent.com/72792261/96335151-7ba2a300-10a0-11eb-9c2c-f1d4973c82f0.png)
+      ![*Commit* (Menyimpan perubahan ke database)](PenggunaanGit/Screenshot_1.png)
 
 ### Membuat repository server
 
@@ -217,13 +217,13 @@ directory)
    
    * Dari menu (icon +) klik New Repository
    
-      ![inikah](https://user-images.githubusercontent.com/72792261/96335318-1780de80-10a2-11eb-9bf9-3b74693bb326.png)
+      ![Membuat repository server](PenggunaanGit/inikah.png)
 
    * Isi nama repositorynya, misal: Prasejarah
 
    * lalu klik tombol Create repository.
    
-      ![nambang](https://user-images.githubusercontent.com/72792261/96335407-9b3acb00-10a2-11eb-80cc-a552f2589479.png)
+      ![Membuat repository server](PenggunaanGit/nambang.png)
    
 ### Menambah Remote Repository
 
@@ -234,7 +234,7 @@ sehingga dapat diakses oleh banyak user
      
      `$ git remote add origin https://github.com/josefisto/Prasejarah.git`
      
-      ![git_remote_add_origin](https://user-images.githubusercontent.com/72792261/96336311-012a5100-10a9-11eb-8717-ff3fcbcbba9f.png)
+      ![Menambah Remote Repository](PenggunaanGit/git_remote_add_origin.png)
       
 ### Push (Mengirim perubahan ke server)
 
@@ -243,7 +243,7 @@ sehingga dapat diakses oleh banyak user
         `$ git push -u origin master`
    * Perintah ini akan meminta memasukkan username dan password pada akun github.com.
    
-      ![push](https://user-images.githubusercontent.com/72792261/96337397-10150180-10b1-11eb-84de-d939cf2e131c.png)
+      ![Push (Mengirim perubahan ke server)](PenggunaanGit/push.png)
      
 ### Melihat hasilnya pada server repository
 
@@ -251,7 +251,7 @@ sehingga dapat diakses oleh banyak user
    
    * Maka perubahan akan terlihat pada laman tersebut
    
-      ![Print_out](https://user-images.githubusercontent.com/72792261/96336382-962d4a00-10a9-11eb-8d86-21829cba731c.png)
+      ![Melihat hasilnya pada server repository](PenggunaanGit/Print_out.png)
       
  ### Clone Repository
  
@@ -259,4 +259,4 @@ sehingga dapat diakses oleh banyak user
    
    * Untuk melakukan cloning, gunakan perintah `git clone [url]`.
    
-      ![cloning](https://user-images.githubusercontent.com/72792261/96337395-0d1a1100-10b1-11eb-8d4f-2af439f3599c.png)
+      ![Clone Repository](PenggunaanGit/cloning.png)
