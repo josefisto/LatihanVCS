@@ -45,7 +45,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
 5. Kemudian pilih komponen tambahan untuk install Git. Fungsi komponen ini adalah untuk memperlancar penggunaan Git dan mendukung file dengan kapasitas besar. Sesuaikan komponen tambahan yang dipilih seperti pada gambar di bawah ini. Jika sudah klik `Next` untuk melanjutkan instalasi.
 
-      ![Instalasi GIT](isntalasigit/download_git2.png)
+      ![Instalasi GIT](instalasigit/download_git2.png)
 
 6. Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pilih Vim Editor. Klik `Next` apabila Anda sudah menentukan file editor yang akan Anda gunakan
 
@@ -53,7 +53,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
 7. Path Environment berfungsi untuk mengeksekusi perintah perintah pada Git. Pilih **Git from the command line and also from 3rd-party software** agar saat menjalankan perintah Git dapat dikenali di **Command Prompt (CMD)** pada Windows. Lalu Klik `Next`
 
-      ![Instalasi GIT](instlasigit/download_git4.png)
+      ![Instalasi GIT](instalasigit/download_git4.png)
 
 8. Kemudian mengeksekusi SSH. Pilih Use OpenSSH, aplikasi default SSH dari Git. Klik `Next` untuk melanjutkan instalasi.
 
@@ -69,7 +69,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
 11. Disini saya memilih default. Pada opsi ini kita bisa melakukan gitpull langsung dari server git, jika tidak bisa maka bisa membuat dengan metode penggabungan komit. Klik `Next` untuk melanjutkan instalasi.
 
-      ![Instalasi GIT](instlasigit/download_git8.png)
+      ![Instalasi GIT](instalasigit/download_git8.png)
 
 12. Pilih **Git Credential Manager** agar Git bisa dikombinasikan dengan aplikasi lain seperti Visual Studio, Android Studio, dan GitHub. Klik `Next` untuk melanjutkan instalasi. 
 
