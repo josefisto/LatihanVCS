@@ -65,11 +65,11 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
 10. Setelah itu, disini terdapat 2 opsi, opsi pertama kita bisa gunakan MinTTY atau Command Prompt. Karena sudah friendly dengan CMD (Command Prompt), Maka saya memilih **Use Windows’ default console windows**. Klik `Next` untuk melanjutkan instalasi.
 
-      ![Instalasi GIT](isntalasigit/download_git7.png)
+      ![Instalasi GIT](instalasigit/download_git7.png)
 
 11. Disini saya memilih default. Pada opsi ini kita bisa melakukan gitpull langsung dari server git, jika tidak bisa maka bisa membuat dengan metode penggabungan komit. Klik `Next` untuk melanjutkan instalasi.
 
-      ![Instalasi GIT](isntlasigit/download_git8.png)
+      ![Instalasi GIT](instlasigit/download_git8.png)
 
 12. Pilih **Git Credential Manager** agar Git bisa dikombinasikan dengan aplikasi lain seperti Visual Studio, Android Studio, dan GitHub. Klik `Next` untuk melanjutkan instalasi. 
 
