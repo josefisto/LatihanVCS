@@ -114,13 +114,13 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
        
       digunakan untuk menyertakan pengguna email dari akun git, hasilnya di bawah ini
       
-      ![ue](https://user-images.githubusercontent.com/72792261/96339469-21fda100-10bf-11eb-9cf0-219a5b46839f.png)
+      ![Menambahkan Global Config](PenggunaanGit/ue.png)
    
    * `git config --list`
 
       untuk mengetahui bahwa akun sudah terdaftar atau tidak, hasilnya di bawah ini
 
-      ![ul](https://user-images.githubusercontent.com/72792261/96339470-232ece00-10bf-11eb-96db-bdcd738db7c1.png)
+      ![Menambahkan Global Config](PenggunaanGit/ul.png)
       
 ### Perintah Dasar Git
 
