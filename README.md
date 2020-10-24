@@ -1,3 +1,12 @@
+---
+
+Nama : Jose Fisto
+NIM : 312010119
+Kelas : TI.20 A.1
+Prodi : Bahasa Pemrograman
+
+      ![LogoUPB](upb.png)
+---
 #LatihanVCS
 # GIT
 Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
