@@ -1,9 +1,5 @@
-Nama : Jose Fisto
-NIM : 312010119
-Kelas : TI.20 A.1
-Prodi : Bahasa Pemrograman
 
-   ![LogoUPB](upb.png)
+   center![LogoUPB](upb.png)
 
 
 #LatihanVCS
