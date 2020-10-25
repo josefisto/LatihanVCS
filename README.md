@@ -100,7 +100,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![Instalasi GIT](instalasigit/setup_installer_4.png)
 
-8. Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pilih default atau bawaan dari installer GIT. Klik `Next` apabila Anda sudah menentukan file editor yang akan Anda gunakan
+8. Untuk mengedit script melalui Git, kita memerlukan file editor. Teman - teman bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pilih default atau bawaan dari installer GIT. Klik `Next` apabila teman - teman sudah menentukan file editor yang akan digunakan
 
       ![Instalasi GIT](instalasigit/setup_installer_5.png)
 
@@ -112,7 +112,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![Instalasi GIT](instalasigit/setup_installer_7.png)
 
-11. Selanjutnya, Anda perlu memilih pengaturan line ending. Pada tutorial ini kami memilih **Checkout Windows-style, commit Unix-style line endings**. Klik `Next` untuk melanjutkan instalasi.
+11. Selanjutnya, pada langkah ini perlu memilih pengaturan line ending. Pada tutorial ini kami memilih **Checkout Windows-style, commit Unix-style line endings**. Klik `Next` untuk melanjutkan instalasi.
 
       ![Instalasi GIT](instalasigit/setup_installer_8.png)
 
@@ -136,11 +136,11 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![Instalasi GIT](instalasigit/setup_installer_13.png)
 
-    Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan Anda bisa menggunakan Git pada Windows.
+    Berikut ini adalah tampilan proses instalasi Git. Tunggu hingga proses selesai dan teman - teman bisa menggunakan Git pada Windows.
 
       ![Instalasi GIT](instalasigit/setup_installer_14.png)
       
-17. Setelah proses instalasi selesai, Anda perlu mengecek apakah instalasi Git berhasil atau tidak. Anda bisa mengeceknya melalui Command Prompt. Klik Win+R lalu ketik CMD untuk membuka Command Prompt seperti di bawah ini.
+17. Setelah proses instalasi selesai, cek terlebih dahulu apakah instalasi Git berhasil atau tidak. Cek bisa dilakukan melalui Command Prompt. Klik Win+R lalu ketik CMD untuk membuka Command Prompt seperti di bawah ini.
 
       ![Instalasi GIT](instalasigit/running.png)
       
@@ -264,7 +264,7 @@ directory)
 
    * Server reopsitory yang akan kita gunakan adalah http://github.com
    
-   * Anda harus membuat akun terlebih dahulu
+   * Teman - teman harus membuat akun terlebih dahulu
    
    * Pada laman github, klik tombol start a project, atau
    
