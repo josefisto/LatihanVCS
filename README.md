@@ -8,7 +8,9 @@
 	<b>Tugas untuk memenuhi syarat penilain pada Pert-4</b>
 </p>
 
+<p align="center">
 <img src="/Logo/logo.png" alt="UPB" width="800" height="600">
+</p>
 
 <p align="center">
 	Nama		: Jose Fisto
