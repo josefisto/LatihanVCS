@@ -27,6 +27,7 @@ Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna b
     * [Push (Mengirim perubahan ke server)](#push-(mengirim-perubahan-ke-server))
     * [Melihat hasilnya pada server repository](#melihat-hasilnya-pada-server-repository)
     * [Clone Repository](#clone-repository)
+* [Penutup](#Penutup)
     
 ## Apa itu GIT
 
@@ -271,3 +272,9 @@ sehingga dapat diakses oleh banyak user
    * Untuk melakukan cloning, gunakan perintah `git clone [url]`.
    
       ![Clone Repository](PenggunaanGit/cloning.png)
+
+# Penutup
+
+	Berdasarkan di atas merupakan tata cara menggunakan git, semoga ilmu di atas dapat bermanfaat untuk teman teman dan di gunakan sebaik mungkin. apabila ada ke kurangan teman - teman bisa memberi saran dengan begitu saya dapat menambahkannya atau dapat memahami lebih dalam lagi.
+
+>Sekian dari saya Terima Kasih.....
