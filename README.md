@@ -1,5 +1,8 @@
 <p align="center">
-	<b>Bahasa Pemrograman</b>
+	<span style="color:#fff; font-family: 'Time News Roman'; font-size: 4em;">Bahasa Pemrograman</span>
+</p>
+<p align="center">
+	<span style="color:#fff; font-family: 'Time News Roman'; font-size: 4em;">Tugas Version Control System</span>
 </p>
 <p align="center">
 	<b>Latihan VCS</b>
