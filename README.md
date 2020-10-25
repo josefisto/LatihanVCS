@@ -1,3 +1,12 @@
+<p align="center">
+	# Bahasa Pemrograman #
+</p>
+<p align="center">
+	## Latihan VCS ##
+</p>
+<p align="center">
+	### Tugas untuk memenuhi syarat penilain pada Pert-4 ###
+</p>
 
 <p align="center">
 	Nama		: Jose Fisto
