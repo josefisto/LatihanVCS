@@ -1,8 +1,8 @@
 <p align="center">
-	<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+	Bahasa Pemrogrman
 </p>
 <p align="center">
-	<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+	Tugas Version Control System
 </p>
 <p align="center">
 	<b>Latihan VCS</b>
@@ -29,7 +29,7 @@
 </p>
 
 # GIT
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span> Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
+Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
 
 **Daftar Isi**
 * [Apa itu GIT](#apa-itu-git)
