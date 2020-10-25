@@ -1,15 +1,15 @@
 
 <p align="center">
-	Nama : Jose Fisto
+	Nama        : Jose Fisto
 </p>
 <p align="center">
-	NIM : 312010119
+	NIM         : 312010119
 </p>
 <p align="center">
-	Kelas : TI.20 A.1
+	Kelas	    : TI.20 A.1
 </p>
 <p align="center">
-Mata Kuliah : Bahasa Pemrograman
+	Mata Kuliah : Bahasa Pemrograman
 </p>
 
 ![UPB](Logo/logo.png)
