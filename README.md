@@ -1,8 +1,8 @@
 <p align="center">
-	<span style="color:#fff; font-family: 'Times New Roman'; font-size: 4em;">Bahasa Pemrograman</span>
+	<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 </p>
 <p align="center">
-	<span style="color:#fff; font-family: 'Times New Roman'; font-size: 4em;">Tugas Version Control System</span>
+	<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 </p>
 <p align="center">
 	<b>Latihan VCS</b>
