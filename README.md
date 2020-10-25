@@ -1,16 +1,15 @@
 
-
->             Nama : Jose Fisto
-
->              NIM : 312010119
-
->            Kelas : TI.20 A.1
-
->      Mata Kuliah : Bahasa Pemrograman
-
 <p align="center">
-  <img width="460" height="300" src="/Logo/logo.png/850/770">
+Nama : Jose Fisto
+
+NIM : 312010119
+
+Kelas : TI.20 A.1
+
+Mata Kuliah : Bahasa Pemrograman
 </p>
+
+![UPB](Logo/logo.png)
 
 #LatihanVCS
 # GIT
