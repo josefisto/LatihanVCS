@@ -25,7 +25,7 @@
 	Kelas		: TI.20 A.1
 
 <p align="center">
-	<img src="/Logo/blank.png" alt="blank" width="20" height="20">
+	<img src="/Logo/blank.png" width="20" height="20">
 </p>
 
 <p align="center">
