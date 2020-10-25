@@ -51,7 +51,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![Instalasi GIT](instalasigit/open_installer.png)
 
-4. Setelah selesai mengunduh file Git, buka setup aplikasi Git untuk memulai proses instalasi. Halaman awal setelah Anda membuka setup aplikasi Git adalah tampilan Document License dari Git. Klik `Next` untuk melanjutkan instalasi.
+4. Di Tahap Installer awal akan di tampilkan pengenalan dan informasi untuk menggunakan GIT. Jika sudah membaca atau di skip lalu klik `Next` untuk melanjutkan instalasi.
 
       ![Instlasi GIT](instalasigit/setup_installer_1.png)
 
