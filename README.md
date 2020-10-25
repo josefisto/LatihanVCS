@@ -9,7 +9,7 @@
 >      Mata Kuliah : Bahasa Pemrograman
 
 <p align="center">
-  <img width="460" height="300" src="/Logo/logo.png/460/300">
+  <img width="460" height="300" src="/Logo/logo.png/850/770">
 </p>
 
 #LatihanVCS
