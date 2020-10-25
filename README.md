@@ -25,20 +25,20 @@
 	Kelas		: TI.20 A.1
 
 <p align="center">
-	<img src="/Logo/blank.png" alt="blank" width="500" height="400">
+	<img src="/Logo/blank.png" alt="blank" width="100" height="100">
 </p>
 
 <p align="center">
-	UNIVERSITAS PELITA BANGSA
+	<b>UNIVERSITAS PELITA BANGSA</b>
 </p>
 <p align="center">
-	FAKULTAS TEKNIK
+	<b>FAKULTAS TEKNIK</b>
 </p>
 <p align="center">
-	TEKNIK INFORMATIKA
+	<b>TEKNIK INFORMATIKA</b>
 </p>
 <p align="center">
-	TA 2020 / 2021
+	<b>TA 2020 / 2021</b>
 </p>
 
 # GIT
