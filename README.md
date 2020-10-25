@@ -125,7 +125,7 @@ Setelah berhasil install ke Git, ikuti beberapa langkah untuk menggunakan Git. B
        
       digunakan untuk menyertakan pengguna email dari akun git, hasilnya di bawah ini
       
-      ![Menambahkan Global Config](PenggunaanGit/ue.png)
+      ![Menambahkan Global Config](PenggunaanGit/uue.png)
    
    * `git config --list`
 
