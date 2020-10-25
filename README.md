@@ -1,5 +1,5 @@
 <p align="center">
-	<h2>Bahasa Pemrograman</h2>
+	<b>Bahasa Pemrograman</b>
 </p>
 <p align="center">
 	<b>Latihan VCS</b>
