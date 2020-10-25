@@ -8,6 +8,8 @@
 	<b>Tugas untuk memenuhi syarat penilain pada Pert-4</b>
 </p>
 
+![UPB](Logo/logo.png)
+
 <p align="center">
 	Nama		: Jose Fisto
 </p>
@@ -20,8 +22,6 @@
 <p align="center">
 	Mata Kuliah	: Bahasa Pemrograman
 </p>
-
-![UPB](Logo/logo.png)
 
 #LatihanVCS
 # GIT
