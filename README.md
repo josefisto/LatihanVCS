@@ -1,7 +1,7 @@
-Nama : Jose Fisto
-NIM : 312010119
-Kelas : TI.20 A.1
-Mata Kuliah : Bahasa Pemrograman
+>Nama : Jose Fisto
+>NIM : 312010119
+>Kelas : TI.20 A.1
+>Mata Kuliah : Bahasa Pemrograman
 
 #LatihanVCS
 # GIT
