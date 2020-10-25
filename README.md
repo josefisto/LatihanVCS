@@ -1,4 +1,6 @@
-<p style="text-align: center;">Bahasa Pemrograman</p>
+<p align="center">
+	<b>Bahasa Pemrograman</p>
+</p>
 <p align="center">
 	<b>Latihan VCS</b>
 </p>
