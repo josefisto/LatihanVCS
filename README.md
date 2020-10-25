@@ -1,5 +1,5 @@
 <p align="center">
-	<h1 style="color:red;font-size:40px;">Heading</h1> Bahasa Pemrograman
+	Bahasa Pemrograman
 </p>
 <p align="center">
 	Tugas Version Control System
