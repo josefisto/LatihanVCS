@@ -6,6 +6,8 @@
 
 >Mata Kuliah : Bahasa Pemrograman
 
+![Logo](Logo/logo.png)
+
 #LatihanVCS
 # GIT
 Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
