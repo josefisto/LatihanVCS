@@ -6,7 +6,7 @@
 
 >Mata Kuliah : Bahasa Pemrograman
 
-![Logo](Logo/logo.png)[widht=100]
+![Logo](Logo/logo.png)[widht="100"]
 
 #LatihanVCS
 # GIT
