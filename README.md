@@ -1,10 +1,10 @@
->         Nama : Jose Fisto
+>            Nama : Jose Fisto
 
->          NIM : 312010119
+>             NIM : 312010119
 
->        Kelas : TI.20 A.1
+>           Kelas : TI.20 A.1
 
->         Mata Kuliah : Bahasa Pemrograman
+>     Mata Kuliah : Bahasa Pemrograman
 
 ![Logo](Logo/logo.png)
 
