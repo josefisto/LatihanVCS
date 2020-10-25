@@ -23,9 +23,19 @@
 </p>
 <p align="center">
 	Kelas		: TI.20 A.1
+
+
+<p align="center">
+	Universitas Pelita Bangsa
 </p>
 <p align="center">
-	Mata Kuliah	: Bahasa Pemrograman
+	Fakultas Teknik
+</p>
+<p align="center">
+	Teknik Informatika
+</p>
+<p align="center">
+	TA 2020 / 2021
 </p>
 
 # GIT
