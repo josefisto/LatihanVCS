@@ -1,5 +1,5 @@
 <p align="center">
-	Bahasa Pemrogrman
+	Bahasa Pemrograman
 </p>
 <p align="center">
 	Tugas Version Control System
@@ -23,6 +23,23 @@
 </p>
 <p align="center">
 	Kelas		: TI.20 A.1
+
+<p align="center">
+	<img src="/Logo/blank.png" alt="blank" width="500" height="400">
+</p>
+
+<p align="center">
+	UNIVERSITAS PELITA BANGSA
+</p>
+<p align="center">
+	FAKULTAS TEKNIK
+</p>
+<p align="center">
+	TEKNIK INFORMATIKA
+</p>
+<p align="center">
+	TA 2020 / 2021
+</p>
 
 # GIT
 Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
