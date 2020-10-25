@@ -25,7 +25,6 @@
 	Mata Kuliah	: Bahasa Pemrograman
 </p>
 
-#LatihanVCS
 # GIT
 Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
 
@@ -304,4 +303,6 @@ Berdasarkan di atas merupakan tata cara menggunakan git, semoga ilmu di atas dap
 
 Sekian dari saya Terima Kasih.....
 
+<p align="center">
    ![Penutup](Logo/penutup.png)
+</p>
