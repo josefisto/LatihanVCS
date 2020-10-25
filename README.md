@@ -304,5 +304,5 @@ Berdasarkan di atas merupakan tata cara menggunakan git, semoga ilmu di atas dap
 Sekian dari saya Terima Kasih.....
 
 <p align="center">
-   ![Penutup](Logo/penutup.png)
+   <img src="Logo/penutup.png" alt="UPB" width="600" height="400">
 </p>
