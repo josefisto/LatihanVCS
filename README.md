@@ -1,8 +1,8 @@
 <p align="center">
-	Bahasa Pemrograman
+	# Bahasa Pemrograman
 </p>
 <p align="center">
-	Tugas Version Control System
+	## Tugas Version Control System
 </p>
 <p align="center">
 	Dosen : Agung Nugroho, M.Kom
