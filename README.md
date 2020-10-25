@@ -43,7 +43,7 @@
 </p>
 
 # GIT
-Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
+Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk membantu bagaiamana cara menggunakan *GIT* pada awalnya. Pada artikel ini saya akan memberikan langkah - langkah instalasi dan cara menggunakan git untuk yang mendasar.
 
 **Daftar Isi**
 * [Apa itu GIT](#apa-itu-git)
