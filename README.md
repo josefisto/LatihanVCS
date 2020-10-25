@@ -1,4 +1,4 @@
-:-: Bahasa Pemrograman
+| :-: | Bahasa Pemrograman
 <p align="center">
 	<b>Latihan VCS</b>
 </p>
