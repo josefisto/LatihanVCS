@@ -1,3 +1,29 @@
+<p align="center">
+	<b>Bahasa Pemrograman</b>
+</p>
+<p align="center">
+	<b>Latihan VCS</b>
+</p>
+<p align="center">
+	<b>Tugas untuk memenuhi syarat penilain pada Pert-4</b>
+</p>
+
+<p align="center">
+	<img src="/Logo/logo.png" alt="UPB" width="600" height="400">
+</p>
+
+<p align="center">
+	Nama		: Jose Fisto
+</p>
+<p align="center">
+	NIM		: 312010119
+</p>
+<p align="center">
+	Kelas		: TI.20 A.1
+</p>
+<p align="center">
+	Mata Kuliah	: Bahasa Pemrograman
+</p>
 
 # GIT
 Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
@@ -276,3 +302,7 @@ sehingga dapat diakses oleh banyak user
 Berdasarkan di atas merupakan tata cara menggunakan git, semoga ilmu di atas dapat bermanfaat untuk teman teman dan di gunakan sebaik mungkin. apabila ada ke kurangan teman - teman bisa memberi saran dengan begitu saya dapat menambahkannya atau dapat memahami lebih dalam lagi.
 
 Sekian dari saya Terima Kasih.....
+
+<p align="center">
+   <img src="Logo/penutup.png" alt="UPB" width="600" height="400">
+</p>
