@@ -286,3 +286,5 @@ sehingga dapat diakses oleh banyak user
 Berdasarkan di atas merupakan tata cara menggunakan git, semoga ilmu di atas dapat bermanfaat untuk teman teman dan di gunakan sebaik mungkin. apabila ada ke kurangan teman - teman bisa memberi saran dengan begitu saya dapat menambahkannya atau dapat memahami lebih dalam lagi.
 
 Sekian dari saya Terima Kasih.....
+
+      ![Penutup](Logo/penutup.png)
