@@ -29,7 +29,7 @@
 </p>
 
 # GIT
-Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
+I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span> Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
 
 **Daftar Isi**
 * [Apa itu GIT](#apa-itu-git)
