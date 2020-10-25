@@ -1,11 +1,11 @@
 <p align="center">
-	# Bahasa Pemrograman #
+	<bold>Bahasa Pemrograman</bold>
 </p>
 <p align="center">
-	## Latihan VCS ##
+	<bold>Latihan VCS</bold>
 </p>
 <p align="center">
-	### Tugas untuk memenuhi syarat penilain pada Pert-4 ###
+	<bold>Tugas untuk memenuhi syarat penilain pada Pert-4</bold>
 </p>
 
 <p align="center">
