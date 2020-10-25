@@ -100,7 +100,7 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![Instalasi GIT](instalasigit/setup_installer_4.png)
 
-8. Untuk mengedit script melalui Git, kita memerlukan file editor. Teman - teman bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pilih default atau bawaan dari installer GIT. Klik `Next` apabila teman - teman sudah menentukan file editor yang akan digunakan
+8. Untuk mengedit script melalui Git, kita memerlukan file editor. Teman - teman bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pilih default atau bawaan dari installer GIT. Klik `Next`, apabila sudah menentukan file editor yang akan digunakan
 
       ![Instalasi GIT](instalasigit/setup_installer_5.png)
 
@@ -316,7 +316,7 @@ sehingga dapat diakses oleh banyak user
 
 # Penutup
 
-Berdasarkan di atas merupakan tata cara menggunakan git, semoga ilmu di atas dapat bermanfaat untuk teman teman dan di gunakan sebaik mungkin. apabila ada ke kurangan teman - teman bisa memberi saran dengan begitu saya dapat menambahkannya atau dapat memahami lebih dalam lagi.
+Berdasarkan di atas merupakan tata cara menggunakan git, semoga ilmu di atas dapat bermanfaat untuk teman - teman dan di gunakan sebaik mungkin. apabila ada ke kurangan teman - teman bisa memberi saran dengan begitu saya dapat menambahkannya atau dapat memahami lebih dalam lagi.
 
 Sekian dari saya Terima Kasih.....
 
