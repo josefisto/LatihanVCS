@@ -5,9 +5,9 @@
 	Tugas Version Control System
 </p>
 <p align="center">
-	<b>Latihan VCS</b>
+	Dosen : Agung Nugroho, M.Kom
 </p>
-<p align="center">
+<p align="center"> 
 	<b>Tugas untuk memenuhi syarat penilain pada Pert-4</b>
 </p>
 
@@ -23,20 +23,6 @@
 </p>
 <p align="center">
 	Kelas		: TI.20 A.1
-
-
-<p align="center">
-	Universitas Pelita Bangsa
-</p>
-<p align="center">
-	Fakultas Teknik
-</p>
-<p align="center">
-	Teknik Informatika
-</p>
-<p align="center">
-	TA 2020 / 2021
-</p>
 
 # GIT
 Selamat berkunjung di repository saya, semoga dengan artikel ini dapat berguna bagi teman - teman untuk mengetahui bagaiamana cara menggunakan *GIT* untuk pertama kali menggunakan *GIT*.
