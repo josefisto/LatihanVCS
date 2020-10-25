@@ -63,11 +63,11 @@ untuk instalasi perhatikan hal - hal yang harus di lakukan pada langkah berikut 
 
       ![Instalasi GIT](instalasigit/setup_installer_3.png)
 
-6. Tentukan nama aplikasi GIT yang akan di tampilkan nanti di pencarian windows. Disini saya mengikuti default dari installer git.
+6. Tentukan nama aplikasi GIT yang akan di tampilkan nanti di pencarian windows. Disini saya mengikuti default dari installer GIT.
 
       ![Instalasi GIT](instalasigit/setup_installer_4.png)
 
-7. Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pilih Vim Editor. Klik `Next` apabila Anda sudah menentukan file editor yang akan Anda gunakan
+7. Untuk mengedit script melalui Git, Anda memerlukan file editor. Anda bebas menggunakan file editor apa pun untuk dikombinasikan dengan Git. Pilih default atau bawaan dari installer GIT. Klik `Next` apabila Anda sudah menentukan file editor yang akan Anda gunakan
 
       ![Instalasi GIT](instalasigit/setup_installer_5.png)
 
