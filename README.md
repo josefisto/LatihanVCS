@@ -291,4 +291,4 @@ Berdasarkan di atas merupakan tata cara menggunakan git, semoga ilmu di atas dap
 
 Sekian dari saya Terima Kasih.....
 
-      ![Penutup](Logo/penutup.png)
+   ![Penutup](Logo/penutup.png)
