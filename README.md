@@ -4,7 +4,7 @@
 
 >        Kelas : TI.20 A.1
 
->  Mata Kuliah : Bahasa Pemrograman
+>         Mata Kuliah : Bahasa Pemrograman
 
 ![Logo](Logo/logo.png)
 
